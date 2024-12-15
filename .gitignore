@@ -1,0 +1,3 @@
+# Remove the comment below for Github use, so your .env file is not uploaded.
+#.env
+.allowedUsers.json
